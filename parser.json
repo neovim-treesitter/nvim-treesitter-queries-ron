@@ -1,7 +1,7 @@
 {
+  "lang": "ron",
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-ron",
   "semver": false,
   "parser_version": "78938553b93075e638035f624973083451b29055",
-  "location": null,
-  "lang": "ron",
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-ron"
+  "location": null
 }
